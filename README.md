@@ -11,6 +11,10 @@ ShopInfinity is a MERN stack ecommerce website that allows users to browse and p
 - Image Storage: Product images are stored using Firebase Storage for efficient access.
 - Responsive Design: The website is optimized for various screen sizes and devices.
 
+## Screenshots
+
+![Homepage1 ](https://github.com/Abhinav0826/ShopInfinity-Ecommerce-MERN-Stack-/assets/98962378/7fd4c52f-137e-410f-a55a-d8fe4a64bf17)
+
 ## Technologies Used
 
 - MongoDB
@@ -20,11 +24,6 @@ ShopInfinity is a MERN stack ecommerce website that allows users to browse and p
 - Stripe
 - Firebase
 - HTML/CSS
-
-## Screenshots
-
-![Homepage1 ](https://github.com/Abhinav0826/ShopInfinity-Ecommerce-MERN-Stack-/assets/98962378/7fd4c52f-137e-410f-a55a-d8fe4a64bf17)
-
 
 ## Getting Started
 
