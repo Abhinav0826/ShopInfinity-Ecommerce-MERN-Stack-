@@ -13,7 +13,7 @@ ShopInfinity is a MERN stack ecommerce website that allows users to browse and p
 
 ## Screenshots
 
-![Homepage1 ](https://github.com/Abhinav0826/ShopInfinity-Ecommerce-MERN-Stack-/assets/98962378/7fd4c52f-137e-410f-a55a-d8fe4a64bf17)
+![ShopInfinite](https://github.com/Abhinav0826/ShopInfinity-Ecommerce-MERN-Stack-/assets/98962378/708a6bc4-d101-4e10-b2f7-dfca408b6d58)
 
 ## Technologies Used
 
